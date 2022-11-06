@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokecrud", "pokecrud\pokecrud.csproj", "{C51EE476-82DD-4DE6-B410-C936FF002492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51EE476-82DD-4DE6-B410-C936FF002492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51EE476-82DD-4DE6-B410-C936FF002492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51EE476-82DD-4DE6-B410-C936FF002492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51EE476-82DD-4DE6-B410-C936FF002492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB01D720-2B13-4ABC-8D86-41C2BEAE579E}
+	EndGlobalSection
+EndGlobal
